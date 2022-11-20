@@ -6,4 +6,9 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="uSync" Version="10.3.0" />
+    <PackageReference Include="uSync.Core" Version="10.3.0" />
+  </ItemGroup>
+
 </Project>
